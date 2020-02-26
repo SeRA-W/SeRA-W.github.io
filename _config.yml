@@ -1,11 +1,11 @@
 # Site settings
 author: Xin Wen
-title: 
+title: No idea yet
 header-img: img/home-bg.png
 email: doriswen1994@hotmail.com
 copyright_name: Xin Wen
 description: > # this means to ignore newlines until "baseurl:"
-  
+  - - -
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  SeRA-W
